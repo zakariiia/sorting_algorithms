@@ -22,7 +22,7 @@ void _swap_val(int *array, int a, int b)
 /**
  * shell_sort - sort the list and print the performed changes.
  * @array: The array to sort.
- * @size: The size of the array
+ * @size: The size of the array.
  * Return: Nothing
  */
 void shell_sort(int *array, size_t size)
